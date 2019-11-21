@@ -97,3 +97,12 @@ footer{
 	color: #F15B31;
 	font-weight: 700;
 }
+
+.soreboard:after{
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
